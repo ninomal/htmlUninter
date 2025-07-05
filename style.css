@@ -1,0 +1,54 @@
+/* 1. Fundo da página com cor suave */
+body {
+  background-color: #f5e6ff; /* roxo suave */
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* 2. Título centralizado e com cor diferente */
+h1 {
+  text-align: center;
+  color: #c678dd; /* roxo mais forte */
+}
+
+/* 3. Parágrafos justificados e com fonte maior */
+p {
+  font-size: 18px;
+  text-align: justify;
+  color: #333;
+}
+
+/* 4. Lista com espaçamento maior entre os itens */
+ul li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+/* 5. Imagem com bordas arredondadas e tamanho adequado */
+img {
+  border-radius: 15px;
+  width: 300px;
+  max-width: 100%;
+  display: block;
+  margin-top: 10px;
+}
+
+/* Estilização da tabela opcional */
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #999;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #fce4ec; /* rosa suave */
+}
+
+td {
+  background-color: #fff;
+}
